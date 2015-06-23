@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "7a25e98e_af2ab97c",
+        "filename": "configs/mixer_paths.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 482,
+      "author": {
+        "id": 2936
+      },
+      "writtenOn": "2015-06-23T10:26:14Z",
+      "side": 1,
+      "message": "This is actually for the camcorder mic, but whatever, I guess.",
+      "revId": "e5fc10fc70668dd057d5b0fca7bdfbdbd19e7921",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
