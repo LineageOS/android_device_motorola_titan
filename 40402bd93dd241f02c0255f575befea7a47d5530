@@ -16,6 +16,24 @@
       "revId": "40402bd93dd241f02c0255f575befea7a47d5530",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "3f1d235d_fe9ece52",
+        "filename": "system.prop",
+        "patchSetId": 1
+      },
+      "lineNbr": 7,
+      "author": {
+        "id": 7230
+      },
+      "writtenOn": "2015-08-26T00:17:10Z",
+      "side": 0,
+      "message": "Doesn\u0027t it work in device.mk?",
+      "parentUuid": "3f1d235d_9e8eba25",
+      "revId": "40402bd93dd241f02c0255f575befea7a47d5530",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
     }
   ]
 }
