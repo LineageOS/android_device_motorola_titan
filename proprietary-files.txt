@@ -15,7 +15,7 @@ etc/firmware/synaptics-s2716-14061501-18a02a-titan.tdat
 etc/firmware/synaptics-s3310b-14101602-1acbd5-titan.tdat
 
 # Camera
-lib/hw/camera.msm8226.so:lib/hw/camera.vendor.msm8226.so|7c2d1c7f3ca2a7c8a0cb13f10a4290ac54c20370
+lib/hw/camera.msm8226.so:lib/hw/camera.vendor.msm8226.so|d1119a97718fc99f350fef1f16aac3ee4368eb4e
 lib/libmm-qcamera.so
 lib/libmmcamera_interface.so
 vendor/lib/libmmcamera2_c2d_module.so
