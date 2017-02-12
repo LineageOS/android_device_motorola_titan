@@ -29,9 +29,6 @@ TARGET_OTA_ASSERT_DEVICE := titan,titan_umts,titan_udstv,titan_umtsds,titan_reta
 # Board
 TARGET_BOARD_INFO_FILE := $(DEVICE_PATH)/board-info.txt
 
-# Kernel
-TARGET_KERNEL_CONFIG := titan_defconfig
-
 # Partitions
 BOARD_BOOTIMAGE_PARTITION_SIZE := 10444800
 BOARD_RECOVERYIMAGE_PARTITION_SIZE := 10526720
